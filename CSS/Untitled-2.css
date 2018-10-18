@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+header {
+	height: 50px;
+	background-color: black;
+}
+
+.password {
+	float: right;
+}
+
+.username {
+	float: right;
+}
+
+.LoginButton {
+	float: right;
+	image: url(../images/Login.png);
+	background-color: goldenrod;
+	height: 20px;
+	width: 50px;
+}
+
+.LoginButton:hover {
+	background-color: darkgoldenrod;
+}
+
+footer {
+	float: bottom;
+	height: 50px;
+	background-color: lightslategray;
+}
